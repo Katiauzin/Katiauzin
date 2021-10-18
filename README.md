@@ -1,9 +1,9 @@
 ## oii, eu sou o Rafael Cordeiro
 
-- 🔭 Desenvolvedor Java
+- 💻 Desenvolvedor Java
 - 🌱 Estudando Spring
 - 📫 E-mail para contato: rafinha.cordeiroo@gmail.com
-- 😄 ele/dele
+- 📈 Em constante evolução! 
 
 <div align="center">
   <a href="https://github.com/Katiauzin">
