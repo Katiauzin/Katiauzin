@@ -1,7 +1,7 @@
 ## oii, eu sou o Rafael Cordeiro
 
-- 💻 Desenvolvedor Java
-- 🌱 Estudando Spring
+- 💻 Desenvolvedor DevOps
+- 🌱 Estudando AWS,Kubernetes,docker e Terraform
 - 📫 E-mail para contato: rafinha.cordeiroo@gmail.com
 - 📈 Em constante evolução! 
 
