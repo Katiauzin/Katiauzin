@@ -1,7 +1,7 @@
 ## oii, eu sou o Rafael Cordeiro
 
 - 💻 Desenvolvedor DevOps
-- 🌱 Estudando AWS,Kubernetes,docker e Terraform
+- 🌱 Estudando AWS, Kubernetes, Docker e Terraform
 - 📫 E-mail para contato: rafinha.cordeiroo@gmail.com
 - 📈 Em constante evolução! 
 
